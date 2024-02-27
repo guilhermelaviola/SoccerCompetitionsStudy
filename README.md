@@ -2,6 +2,7 @@
 I created studies for different soccer competitions finals, with different datasets for each:
 
 **CLUB**
+
 **Europe**
 - UEFA Champions League
 - UEFA Europa League
