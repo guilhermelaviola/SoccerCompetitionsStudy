@@ -1,7 +1,7 @@
 # SoccerCompetitionsStudy
 I created studies for different soccer competitions finals, with different datasets for each:
 
-**CLUB**
+**Club competitions**
 
 **Europe**
 - UEFA Champions League
@@ -12,14 +12,24 @@ I created studies for different soccer competitions finals, with different datas
 - Copa Libertadores
 - Copa Sudamericana
 
-**Americas**
+**Africa**
 - CAF Champions League
 
-**COUNTRY**
+**Country competitions**
+
+**World**
 - FIFA World Cup
+
+**Europe**
 - UEFA EURO
+
+**Americas**
 - Copa America
+
+**Africa**
 - Africa Cup of Nations
+
+**Asia**
 - Asian Cup
 
 Each dataset has data about the finalists, the final score(s), their countries of origin, the venue(s), the attendance(s), the way the match was won (in normal, extra time, after penalty shootout, etc...)
